@@ -1,0 +1,714 @@
+[
+  {
+    "id": "r001",
+    "name": "Khổ qua xào trứng",
+    "image": "https://picsum.photos/seed/r001/640/480",
+    "ingredients": [
+      "trứng",
+      "khổ qua",
+      "hành lá",
+      "muối"
+    ],
+    "shortInstructions": "Sơ chế khổ qua, đánh trứng, xào nhanh trên lửa lớn.",
+    "updatedAt": "2026-04-20T08:00:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r002",
+    "name": "Trứng chiên cà chua",
+    "image": "https://picsum.photos/seed/r002/640/480",
+    "ingredients": [
+      "trứng",
+      "cà chua",
+      "hành tím",
+      "nước mắm"
+    ],
+    "shortInstructions": "Phi hành, xào cà chua mềm, cho trứng vào đảo đều.",
+    "updatedAt": "2026-04-20T08:05:00Z",
+    "category": "Chiên"
+  },
+  {
+    "id": "r003",
+    "name": "Trứng hấp thịt",
+    "image": "https://picsum.photos/seed/r003/640/480",
+    "ingredients": [
+      "trứng",
+      "thịt băm",
+      "nấm mèo",
+      "hành lá"
+    ],
+    "shortInstructions": "Trộn thịt với trứng, hấp cách thủy đến khi chín.",
+    "updatedAt": "2026-04-20T08:10:00Z",
+    "category": "Hấp/Luộc"
+  },
+  {
+    "id": "r004",
+    "name": "Cơm chiên trứng",
+    "image": "https://picsum.photos/seed/r004/640/480",
+    "ingredients": [
+      "trứng",
+      "cơm nguội",
+      "hành lá",
+      "xì dầu"
+    ],
+    "shortInstructions": "Đánh tơi trứng, đảo cơm với lửa lớn, nêm vừa ăn.",
+    "updatedAt": "2026-04-20T08:15:00Z",
+    "category": "Chiên"
+  },
+  {
+    "id": "r005",
+    "name": "Canh cà chua trứng",
+    "image": "https://picsum.photos/seed/r005/640/480",
+    "ingredients": [
+      "trứng",
+      "cà chua",
+      "hành lá",
+      "tiêu"
+    ],
+    "shortInstructions": "Nấu cà chua sôi nhẹ, rót trứng tạo vân rồi nêm gia vị.",
+    "updatedAt": "2026-04-20T08:20:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r006",
+    "name": "Trứng cuộn rau củ",
+    "image": "https://picsum.photos/seed/r006/640/480",
+    "ingredients": [
+      "trứng",
+      "cà rốt",
+      "hành lá",
+      "muối"
+    ],
+    "shortInstructions": "Rán lớp trứng mỏng, thêm rau củ, cuộn lại và cắt khoanh.",
+    "updatedAt": "2026-04-20T08:25:00Z",
+    "category": "Khác"
+  },
+  {
+    "id": "r007",
+    "name": "Thịt kho trứng",
+    "image": "https://picsum.photos/seed/r007/640/480",
+    "ingredients": [
+      "thịt ba chỉ",
+      "trứng",
+      "nước dừa",
+      "nước mắm"
+    ],
+    "shortInstructions": "Ướp thịt, kho với nước dừa, thêm trứng luộc cho ngấm.",
+    "updatedAt": "2026-04-20T08:30:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r008",
+    "name": "Bún trứng xào",
+    "image": "https://picsum.photos/seed/r008/640/480",
+    "ingredients": [
+      "trứng",
+      "bún tươi",
+      "giá đỗ",
+      "hẹ"
+    ],
+    "shortInstructions": "Xào trứng trước, cho bún và rau vào đảo nhanh tay.",
+    "updatedAt": "2026-04-20T08:35:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r009",
+    "name": "Gà kho gừng",
+    "image": "https://picsum.photos/seed/r009/640/480",
+    "ingredients": [
+      "thịt gà",
+      "gừng",
+      "hành tím",
+      "nước mắm"
+    ],
+    "shortInstructions": "Ướp gà với gừng, kho lửa nhỏ đến khi sệt nước.",
+    "updatedAt": "2026-04-20T08:40:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r010",
+    "name": "Gà xào sả ớt",
+    "image": "https://picsum.photos/seed/r010/640/480",
+    "ingredients": [
+      "thịt gà",
+      "sả",
+      "ớt",
+      "tỏi"
+    ],
+    "shortInstructions": "Phi thơm sả tỏi, cho gà vào xào săn và nêm đậm.",
+    "updatedAt": "2026-04-20T08:45:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r011",
+    "name": "Gà nướng mật ong",
+    "image": "https://picsum.photos/seed/r011/640/480",
+    "ingredients": [
+      "đùi gà",
+      "mật ong",
+      "tỏi",
+      "tiêu"
+    ],
+    "shortInstructions": "Ướp gà rồi nướng đến vàng, phết thêm sốt mật ong.",
+    "updatedAt": "2026-04-20T08:50:00Z",
+    "category": "Nướng"
+  },
+  {
+    "id": "r012",
+    "name": "Heo rang cháy cạnh",
+    "image": "https://picsum.photos/seed/r012/640/480",
+    "ingredients": [
+      "thịt ba chỉ",
+      "hành tím",
+      "nước mắm",
+      "đường"
+    ],
+    "shortInstructions": "Rang thịt ra mỡ, nêm mắm đường, đảo đến cháy cạnh.",
+    "updatedAt": "2026-04-20T08:55:00Z",
+    "category": "Khác"
+  },
+  {
+    "id": "r013",
+    "name": "Thịt heo xào hành tây",
+    "image": "https://picsum.photos/seed/r013/640/480",
+    "ingredients": [
+      "thịt nạc heo",
+      "hành tây",
+      "tỏi",
+      "xì dầu"
+    ],
+    "shortInstructions": "Xào thịt chín tới, cho hành tây vào đảo nhanh.",
+    "updatedAt": "2026-04-20T09:00:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r014",
+    "name": "Sườn rim mặn ngọt",
+    "image": "https://picsum.photos/seed/r014/640/480",
+    "ingredients": [
+      "sườn non",
+      "tỏi",
+      "nước mắm",
+      "đường"
+    ],
+    "shortInstructions": "Chiên sơ sườn, rim với sốt mặn ngọt đến sánh.",
+    "updatedAt": "2026-04-20T09:05:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r015",
+    "name": "Bò xào cần tây",
+    "image": "https://picsum.photos/seed/r015/640/480",
+    "ingredients": [
+      "thịt bò",
+      "cần tây",
+      "hành tây",
+      "tỏi"
+    ],
+    "shortInstructions": "Xào bò nhanh lửa lớn, thêm cần tây cho thơm.",
+    "updatedAt": "2026-04-20T09:10:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r016",
+    "name": "Bò lúc lắc",
+    "image": "https://picsum.photos/seed/r016/640/480",
+    "ingredients": [
+      "thịt bò",
+      "ớt chuông",
+      "hành tây",
+      "bơ"
+    ],
+    "shortInstructions": "Áp chảo bò, thêm rau củ và đảo đều đến chín tới.",
+    "updatedAt": "2026-04-20T09:15:00Z",
+    "category": "Khác"
+  },
+  {
+    "id": "r017",
+    "name": "Cá kho tộ",
+    "image": "https://picsum.photos/seed/r017/640/480",
+    "ingredients": [
+      "cá basa",
+      "nước mắm",
+      "hành tím",
+      "tiêu"
+    ],
+    "shortInstructions": "Ướp cá rồi kho liu riu đến khi keo nước.",
+    "updatedAt": "2026-04-20T09:20:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r018",
+    "name": "Cá chiên sốt cà",
+    "image": "https://picsum.photos/seed/r018/640/480",
+    "ingredients": [
+      "cá rô phi",
+      "cà chua",
+      "hành lá",
+      "tỏi"
+    ],
+    "shortInstructions": "Chiên cá vàng giòn, rưới sốt cà chua lên trên.",
+    "updatedAt": "2026-04-20T09:25:00Z",
+    "category": "Chiên"
+  },
+  {
+    "id": "r019",
+    "name": "Canh chua cá",
+    "image": "https://picsum.photos/seed/r019/640/480",
+    "ingredients": [
+      "cá",
+      "dứa",
+      "cà chua",
+      "bạc hà"
+    ],
+    "shortInstructions": "Nấu nước canh chua, cho cá và rau vào nấu vừa chín.",
+    "updatedAt": "2026-04-20T09:30:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r020",
+    "name": "Tôm rim mặn ngọt",
+    "image": "https://picsum.photos/seed/r020/640/480",
+    "ingredients": [
+      "tôm",
+      "nước mắm",
+      "đường",
+      "hành tím"
+    ],
+    "shortInstructions": "Rim tôm với sốt mặn ngọt đến khi áo đều.",
+    "updatedAt": "2026-04-20T09:35:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r021",
+    "name": "Tôm xào bông cải",
+    "image": "https://picsum.photos/seed/r021/640/480",
+    "ingredients": [
+      "tôm",
+      "bông cải",
+      "tỏi",
+      "muối"
+    ],
+    "shortInstructions": "Xào tôm săn lại, thêm bông cải và nêm vừa ăn.",
+    "updatedAt": "2026-04-20T09:40:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r022",
+    "name": "Canh bí đỏ nấu tôm",
+    "image": "https://picsum.photos/seed/r022/640/480",
+    "ingredients": [
+      "bí đỏ",
+      "tôm",
+      "hành lá",
+      "tiêu"
+    ],
+    "shortInstructions": "Nấu bí đỏ mềm, cho tôm vào đến khi vừa chín.",
+    "updatedAt": "2026-04-20T09:45:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r023",
+    "name": "Đậu hũ sốt cà",
+    "image": "https://picsum.photos/seed/r023/640/480",
+    "ingredients": [
+      "đậu hũ",
+      "cà chua",
+      "hành lá",
+      "tỏi"
+    ],
+    "shortInstructions": "Chiên sơ đậu hũ, nấu cùng sốt cà chua đậm vị.",
+    "updatedAt": "2026-04-20T09:50:00Z",
+    "category": "Khác"
+  },
+  {
+    "id": "r024",
+    "name": "Đậu hũ kho nấm",
+    "image": "https://picsum.photos/seed/r024/640/480",
+    "ingredients": [
+      "đậu hũ",
+      "nấm đùi gà",
+      "nước tương",
+      "tiêu"
+    ],
+    "shortInstructions": "Kho đậu hũ với nấm và nước tương đến khi thấm.",
+    "updatedAt": "2026-04-20T09:55:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r025",
+    "name": "Nấm kho tiêu",
+    "image": "https://picsum.photos/seed/r025/640/480",
+    "ingredients": [
+      "nấm rơm",
+      "tiêu",
+      "nước tương",
+      "hành boa rô"
+    ],
+    "shortInstructions": "Kho nấm trên lửa nhỏ cho ngấm vị mặn ngọt.",
+    "updatedAt": "2026-04-20T10:00:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r026",
+    "name": "Canh rau ngót nấu thịt băm",
+    "image": "https://picsum.photos/seed/r026/640/480",
+    "ingredients": [
+      "rau ngót",
+      "thịt băm",
+      "hành tím",
+      "muối"
+    ],
+    "shortInstructions": "Xào thịt băm, thêm nước và rau ngót nấu vừa chín.",
+    "updatedAt": "2026-04-20T10:05:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r027",
+    "name": "Canh cải xanh nấu gừng",
+    "image": "https://picsum.photos/seed/r027/640/480",
+    "ingredients": [
+      "cải xanh",
+      "gừng",
+      "hành tím",
+      "muối"
+    ],
+    "shortInstructions": "Nấu nước sôi, cho cải và gừng vào nấu nhanh.",
+    "updatedAt": "2026-04-20T10:10:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r028",
+    "name": "Cải thìa xào tỏi",
+    "image": "https://picsum.photos/seed/r028/640/480",
+    "ingredients": [
+      "cải thìa",
+      "tỏi",
+      "muối",
+      "dầu ăn"
+    ],
+    "shortInstructions": "Phi tỏi thơm, cho cải thìa vào xào chín tới.",
+    "updatedAt": "2026-04-20T10:15:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r029",
+    "name": "Rau muống xào tỏi",
+    "image": "https://picsum.photos/seed/r029/640/480",
+    "ingredients": [
+      "rau muống",
+      "tỏi",
+      "muối",
+      "dầu ăn"
+    ],
+    "shortInstructions": "Chần rau muống, xào nhanh với tỏi phi thơm.",
+    "updatedAt": "2026-04-20T10:20:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r030",
+    "name": "Canh bí đỏ chay",
+    "image": "https://picsum.photos/seed/r030/640/480",
+    "ingredients": [
+      "bí đỏ",
+      "nấm rơm",
+      "hành boa rô",
+      "muối"
+    ],
+    "shortInstructions": "Nấu bí đỏ mềm, thêm nấm và nêm vị thanh nhẹ.",
+    "updatedAt": "2026-04-20T10:25:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r031",
+    "name": "Mực xào cần tỏi",
+    "image": "https://picsum.photos/seed/r031/640/480",
+    "ingredients": [
+      "mực",
+      "cần tây",
+      "tỏi",
+      "hành tím"
+    ],
+    "shortInstructions": "Xào mực lửa lớn, thêm cần tây và nêm nhanh tay.",
+    "updatedAt": "2026-04-20T10:30:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r032",
+    "name": "Sò điệp áp chảo bơ tỏi",
+    "image": "https://picsum.photos/seed/r032/640/480",
+    "ingredients": [
+      "sò điệp",
+      "bơ",
+      "tỏi",
+      "tiêu"
+    ],
+    "shortInstructions": "Áp chảo sò điệp hai mặt, rưới sốt bơ tỏi khi dùng.",
+    "updatedAt": "2026-04-20T10:35:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r033",
+    "name": "Canh nghêu nấu chua",
+    "image": "https://picsum.photos/seed/r033/640/480",
+    "ingredients": [
+      "nghêu",
+      "cà chua",
+      "dứa",
+      "thì là"
+    ],
+    "shortInstructions": "Luộc nghêu lấy nước, nấu cùng cà chua và dứa cho vị chua dịu.",
+    "updatedAt": "2026-04-20T10:40:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r034",
+    "name": "Bún riêu cua",
+    "image": "https://picsum.photos/seed/r034/640/480",
+    "ingredients": [
+      "cua đồng",
+      "cà chua",
+      "đậu hũ",
+      "bún"
+    ],
+    "shortInstructions": "Nấu riêu cua với cà chua, chan lên bún và thêm đậu hũ.",
+    "updatedAt": "2026-04-20T10:45:00Z",
+    "category": "Món nước"
+  },
+  {
+    "id": "r035",
+    "name": "Phở gà xé",
+    "image": "https://picsum.photos/seed/r035/640/480",
+    "ingredients": [
+      "thịt gà",
+      "bánh phở",
+      "hành lá",
+      "gừng"
+    ],
+    "shortInstructions": "Luộc gà lấy nước dùng, xé thịt và chan lên bánh phở.",
+    "updatedAt": "2026-04-20T10:50:00Z",
+    "category": "Món nước"
+  },
+  {
+    "id": "r036",
+    "name": "Bún bò Huế",
+    "image": "https://picsum.photos/seed/r036/640/480",
+    "ingredients": [
+      "bắp bò",
+      "sả",
+      "bún",
+      "mắm ruốc"
+    ],
+    "shortInstructions": "Ninh bò mềm, nêm mắm ruốc và sả cho mùi đặc trưng.",
+    "updatedAt": "2026-04-20T10:55:00Z",
+    "category": "Món nước"
+  },
+  {
+    "id": "r037",
+    "name": "Canh mướp nấu lạc",
+    "image": "https://picsum.photos/seed/r037/640/480",
+    "ingredients": [
+      "mướp",
+      "lạc",
+      "hành lá",
+      "muối"
+    ],
+    "shortInstructions": "Nấu lạc mềm trước, thêm mướp và nêm thanh nhẹ.",
+    "updatedAt": "2026-04-20T11:00:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r038",
+    "name": "Cà tím nướng mỡ hành",
+    "image": "https://picsum.photos/seed/r038/640/480",
+    "ingredients": [
+      "cà tím",
+      "hành lá",
+      "đậu phộng",
+      "dầu ăn"
+    ],
+    "shortInstructions": "Nướng cà tím mềm, rưới mỡ hành và rắc đậu phộng rang.",
+    "updatedAt": "2026-04-20T11:05:00Z",
+    "category": "Nướng"
+  },
+  {
+    "id": "r039",
+    "name": "Miến xào hải sản",
+    "image": "https://picsum.photos/seed/r039/640/480",
+    "ingredients": [
+      "miến",
+      "tôm",
+      "mực",
+      "nấm hương"
+    ],
+    "shortInstructions": "Xào hải sản chín tới, cho miến và nấm vào đảo đều.",
+    "updatedAt": "2026-04-20T11:10:00Z",
+    "category": "Xào"
+  },
+  {
+    "id": "r040",
+    "name": "Cháo nấm đậu xanh",
+    "image": "https://picsum.photos/seed/r040/640/480",
+    "ingredients": [
+      "gạo",
+      "đậu xanh",
+      "nấm rơm",
+      "hành boa rô"
+    ],
+    "shortInstructions": "Nấu cháo nhừ với đậu xanh, thêm nấm và nêm vừa ăn.",
+    "updatedAt": "2026-04-20T11:15:00Z",
+    "category": "Cháo"
+  },
+  {
+    "id": "r041",
+    "name": "Bún chả Hà Nội",
+    "image": "https://picsum.photos/seed/r041/640/480",
+    "ingredients": [
+      "thịt ba chỉ",
+      "thịt nạc vai",
+      "bún",
+      "đu đủ",
+      "cà rốt",
+      "nước mắm"
+    ],
+    "shortInstructions": "Thịt thái miếng và băm nhỏ ướp gia vị, nướng than hoa. Dùng kèm bún và nước mắm chua ngọt.",
+    "updatedAt": "2026-05-05T10:00:00Z",
+    "category": "Nướng"
+  },
+  {
+    "id": "r042",
+    "name": "Phở bò Hà Nội",
+    "image": "https://picsum.photos/seed/r042/640/480",
+    "ingredients": [
+      "thịt bò",
+      "bánh phở",
+      "xương bò",
+      "quế",
+      "hồi",
+      "thảo quả"
+    ],
+    "shortInstructions": "Ninh xương bò cùng thảo mộc làm nước dùng. Chần phở, thái thịt bò mỏng và chan nước dùng nóng hổi.",
+    "updatedAt": "2026-05-05T10:05:00Z",
+    "category": "Món nước"
+  },
+  {
+    "id": "r043",
+    "name": "Chả cá Lã Vọng",
+    "image": "https://picsum.photos/seed/r043/640/480",
+    "ingredients": [
+      "cá lăng",
+      "thì là",
+      "hành hoa",
+      "mắm tôm",
+      "bún",
+      "lạc rang"
+    ],
+    "shortInstructions": "Ướp cá với riềng mẻ rồi nướng sơ, sau đó đảo chảo với thì là và hành hoa. Ăn kèm mắm tôm và bún.",
+    "updatedAt": "2026-05-05T10:10:00Z",
+    "category": "Chiên"
+  },
+  {
+    "id": "r044",
+    "name": "Nem rán Hà Nội",
+    "image": "https://picsum.photos/seed/r044/640/480",
+    "ingredients": [
+      "thịt băm",
+      "miến",
+      "mộc nhĩ",
+      "trứng",
+      "bánh đa nem"
+    ],
+    "shortInstructions": "Trộn đều nhân thịt, mộc nhĩ, miến. Cuộn nhân bằng bánh đa nem và chiên giòn.",
+    "updatedAt": "2026-05-05T10:15:00Z",
+    "category": "Chiên"
+  },
+  {
+    "id": "r045",
+    "name": "Canh sườn nấu sấu",
+    "image": "https://picsum.photos/seed/r045/640/480",
+    "ingredients": [
+      "sườn non",
+      "quả sấu",
+      "cà chua",
+      "hành lá"
+    ],
+    "shortInstructions": "Ninh sườn chín mềm, thêm sấu và cà chua đun đến khi sấu mềm chua thanh.",
+    "updatedAt": "2026-05-05T10:20:00Z",
+    "category": "Canh"
+  },
+  {
+    "id": "r046",
+    "name": "Cá chép om dưa",
+    "image": "https://picsum.photos/seed/r046/640/480",
+    "ingredients": [
+      "cá chép",
+      "dưa chua",
+      "cà chua",
+      "thì là",
+      "hành lá"
+    ],
+    "shortInstructions": "Rán sơ cá chép. Xào dưa chua với cà chua, thêm nước và om cá đến khi ngấm vị.",
+    "updatedAt": "2026-05-05T10:25:00Z",
+    "category": "Kho/Rim"
+  },
+  {
+    "id": "r047",
+    "name": "Thịt nấu đông",
+    "image": "https://picsum.photos/seed/r047/640/480",
+    "ingredients": [
+      "thịt chân giò",
+      "bì lợn",
+      "mộc nhĩ",
+      "hạt tiêu",
+      "nước mắm"
+    ],
+    "shortInstructions": "Ninh nhừ thịt chân giò và bì lợn cùng mộc nhĩ, để nguội cho đông lại thành keo.",
+    "updatedAt": "2026-05-05T10:30:00Z",
+    "category": "Khác"
+  },
+  {
+    "id": "r048",
+    "name": "Xôi xéo",
+    "image": "https://picsum.photos/seed/r048/640/480",
+    "ingredients": [
+      "gạo nếp",
+      "đậu xanh",
+      "hành phi",
+      "mỡ gà",
+      "bột nghệ"
+    ],
+    "shortInstructions": "Ngâm nếp với nước nghệ rồi đồ chín. Đậu xanh hấp chín giã nhuyễn, ăn kèm xôi và hành phi.",
+    "updatedAt": "2026-05-05T10:35:00Z",
+    "category": "Cơm"
+  },
+  {
+    "id": "r049",
+    "name": "Bún đậu mắm tôm",
+    "image": "https://picsum.photos/seed/r049/640/480",
+    "ingredients": [
+      "bún",
+      "đậu phụ",
+      "mắm tôm",
+      "thịt chân giò",
+      "chả cốm"
+    ],
+    "shortInstructions": "Rán vàng đậu phụ và chả cốm. Thịt chân giò luộc thái mỏng. Dùng kèm bún và mắm tôm pha.",
+    "updatedAt": "2026-05-05T10:40:00Z",
+    "category": "Khác"
+  },
+  {
+    "id": "r050",
+    "name": "Bánh cuốn Thanh Trì",
+    "image": "https://picsum.photos/seed/r050/640/480",
+    "ingredients": [
+      "bột gạo",
+      "thịt băm",
+      "mộc nhĩ",
+      "hành phi",
+      "chả lụa"
+    ],
+    "shortInstructions": "Tráng bột gạo mỏng, cuộn nhân thịt mộc nhĩ. Rắc hành phi và ăn kèm chả lụa, nước mắm.",
+    "updatedAt": "2026-05-05T10:45:00Z",
+    "category": "Khác"
+  }
+]
